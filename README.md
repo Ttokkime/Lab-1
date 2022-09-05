@@ -25,9 +25,13 @@ The results are shown above in this ping test picture. The Wireshark window show
 ![image](https://github.com/Ttokkime/Lab-1/blob/5365ed4500c399194b815bca3e232a7a47a051ea/creditcards.txt%20file%20details.png)
 
 * Nessuss - a computer vulnerability scanner
+
+
+
+
 * FileZilla - a protocol software tool that connects suers with FTP servers
 
-
+![image](https://github.com/Ttokkime/Lab-1/blob/86bae5be59adc3448180dd12c4933f096b3eecd4/FileZilla%20logs.png)
 
 ## Conduct network probing on machines in the Virtual Security Cloud Lab (VSCL)
 ## Use Zenmap to do an intense scan on subnetworks
