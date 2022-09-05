@@ -6,7 +6,7 @@ This repository compiles the different steps I took during the lab and shows the
 * Wireshark - a protocol analyzer tool that is used to capture IP traffic from different sources
    * When using Wireshark, I used the tool in order to capture the ping traffic between vWorkstation and TargetWindows02 that were not port 3389. This was done by having a filter placed for my interfaces so that all the RDP trafic generated would qualify the condition of "not port 3389". After having set this filter, I started the capture and proceeded to go to the command prompt and use this ping command.
 
-'ping 172.18.0.1'
+`ping 172.18.0.1`
 
 
 
