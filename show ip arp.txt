@@ -1,0 +1,3 @@
+Protocol  Address          Age (min)  Hardware Addr   Type   Interface
+Internet  172.16.8.5              -   001d.46cf.6d41  ARPA   Vlan100
+Internet  172.16.8.1             57   001d.46dc.13e0  ARPA   Vlan100

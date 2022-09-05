@@ -1,0 +1,88 @@
+Vlan1 is administratively down, line protocol is down
+  Internet protocol processing disabled
+Vlan100 is up, line protocol is up
+  Internet address is 172.16.8.5/24
+  Broadcast address is 255.255.255.255
+  Address determined by setup command
+  MTU is 1500 bytes
+  Helper address is not set
+  Directed broadcast forwarding is disabled
+  Outgoing access list is not set
+  Inbound  access list is not set
+  Proxy ARP is enabled
+  Local Proxy ARP is disabled
+  Security level is default
+  Split horizon is enabled
+  ICMP redirects are always sent
+  ICMP unreachables are always sent
+  ICMP mask replies are never sent
+  IP fast switching is disabled
+  IP CEF switching is disabled
+  IP Null turbo vector
+  IP multicast fast switching is disabled
+  IP multicast distributed fast switching is disabled
+  IP route-cache flags are None
+  Router Discovery is disabled
+  IP output packet accounting is disabled
+  IP access violation accounting is disabled
+  TCP/IP header compression is disabled
+  RTP/IP header compression is disabled
+  Probe proxy name replies are disabled
+  Policy routing is disabled
+  Network address translation is disabled
+  WCCP Redirect outbound is disabled
+  WCCP Redirect inbound is disabled
+  WCCP Redirect exclude is disabled
+  BGP Policy Mapping is disabled
+FastEthernet0/1 is up, line protocol is up
+  Inbound  access list is not set
+FastEthernet0/2 is up, line protocol is up
+  Inbound  access list is not set
+FastEthernet0/3 is up, line protocol is up
+  Inbound  access list is not set
+FastEthernet0/4 is up, line protocol is up
+  Inbound  access list is not set
+FastEthernet0/5 is up, line protocol is up
+  Inbound  access list is not set
+FastEthernet0/6 is administratively down, line protocol is down
+  Inbound  access list is not set
+FastEthernet0/7 is administratively down, line protocol is down
+  Inbound  access list is not set
+FastEthernet0/8 is administratively down, line protocol is down
+  Inbound  access list is not set
+FastEthernet0/9 is administratively down, line protocol is down
+  Inbound  access list is not set
+FastEthernet0/10 is administratively down, line protocol is down
+  Inbound  access list is not set
+FastEthernet0/11 is administratively down, line protocol is down
+  Inbound  access list is not set
+FastEthernet0/12 is administratively down, line protocol is down
+  Inbound  access list is not set
+FastEthernet0/13 is administratively down, line protocol is down
+  Inbound  access list is not set
+FastEthernet0/14 is administratively down, line protocol is down
+  Inbound  access list is not set
+FastEthernet0/15 is administratively down, line protocol is down
+  Inbound  access list is not set
+FastEthernet0/16 is administratively down, line protocol is down
+  Inbound  access list is not set
+FastEthernet0/17 is administratively down, line protocol is down
+  Inbound  access list is not set
+FastEthernet0/18 is administratively down, line protocol is down
+  Inbound  access list is not set
+FastEthernet0/19 is administratively down, line protocol is down
+  Inbound  access list is not set
+FastEthernet0/20 is administratively down, line protocol is down
+  Inbound  access list is not set
+FastEthernet0/21 is administratively down, line protocol is down
+  Inbound  access list is not set
+FastEthernet0/22 is administratively down, line protocol is down
+  Inbound  access list is not set
+FastEthernet0/23 is administratively down, line protocol is down
+  Inbound  access list is not set
+FastEthernet0/24 is administratively down, line protocol is down
+  Inbound  access list is not set
+GigabitEthernet0/1 is administratively down, line protocol is down
+  Inbound  access list is not set
+GigabitEthernet0/2 is administratively down, line protocol is down
+  Inbound  access list is not set

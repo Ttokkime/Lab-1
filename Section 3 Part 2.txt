@@ -1,0 +1,3 @@
+Port 3389 is one that is used as a listening port where it listens for TCP and UDP packets. It enables remote connections for computers over an encrypted channel.
+
+Another filter syntax that could be used to show only the ping traffic that was generated would be icmp. 

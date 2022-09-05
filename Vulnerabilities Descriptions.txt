@@ -1,0 +1,7 @@
+TLS 1.0 detction is known for being flawed due to how it is vulnerable to attacks such as the man-in-the-middle attack and risks data integrity as it is being sent between browers and websites. Attackers can thus exploit vulnerabilities and cause connection failures. 
+
+The next steps would be in finding and fixing TLS 1.0 dependencies in the code and updating Windows PowerShell scripts or related registries. Most would reccommend having people simply transition to TLS 1.2. 
+
+For the Microsoft Remote Desktop Protocol Server Man-in-the-Middle Weakness the attacker can get sensitive or important information by intercepting the traffic from the RDP server and thus creating an encrypted connection with the client and server without getting noticed. 
+
+The next steps would be to have people use SSL as a transport layer and by having options selected in the Microsoft OS where people are allowed to select to have only connections from remote desktops with network authentication running. 
