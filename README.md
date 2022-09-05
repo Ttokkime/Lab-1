@@ -3,13 +3,13 @@ This repository compiles the different steps I took during the lab and shows the
 
 ## Exploring and testing with common network scanning and anaylsis tools
 ### Tools used:
-* Wireshark - a protocol analyzer tool taht is used to capture IP traffic from different sources
+* Wireshark - a protocol analyzer tool that is used to capture IP traffic from different sources
 
 
 ![image](https://github.com/Ttokkime/Lab-1/blob/e54321585f72cc90683a5f2ad187b58444c0747f/Ping%20Test.png)
 
 
-When using Wireshark, I used the tool in order to capture the ping traffic between vWorkstation and TargetWindows02 that were not port 3389. This was done by having a filter placed for my interfaces so that all the RDP trafic generated would qualify the condition of "not port 3389". After having set this filter, I started the capture and proceeded to go to the command prompt and use the ping command.
+When using Wireshark, I used the tool in order to capture the ping traffic between vWorkstation and TargetWindows02 that were not port 3389. This was done by having a filter placed for my interfaces so that all the RDP trafic generated would qualify the condition of "not port 3389". After having set this filter, I started the capture and proceeded to go to the command prompt and use this ping command.
 
 
 > ping 172.18.0.1
