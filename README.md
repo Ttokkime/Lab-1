@@ -33,7 +33,6 @@ The results are shown above in this ping test picture. The Wireshark window show
 
 ![image](https://github.com/Ttokkime/Lab-1/blob/86bae5be59adc3448180dd12c4933f096b3eecd4/FileZilla%20logs.png)
 
-## Conduct network probing on machines in the Virtual Security Cloud Lab (VSCL)
 ## Use Zenmap to do an intense scan on subnetworks
 ## Generate charts taht show the relationsihps between devices within the network
 
