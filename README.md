@@ -1,6 +1,12 @@
 # Lab 1: Performing Reconnaissance and Probing using Common Tools
 This repository compiles the different steps I took during the lab and shows the results.
 
+
+![image](https://github.com/Ttokkime/Lab-1/blob/main/Lab%201%20Topology.png)
+
+**Note**: This picture is a reference that shows the different virtual machines and devices that were used in the lab and the connections between them.
+
+
 ## Exploring and testing with common network scanning and anaylsis tools
 ### Tools used:
 * Wireshark - a protocol analyzer tool that is used to capture IP traffic from different sources
@@ -27,6 +33,4 @@ This repository compiles the different steps I took during the lab and shows the
 ## Generate charts taht show the relationsihps between devices within the network
 
 
-Below is a diagram showing the network topology of the virtual machines used in the lab
 
-![image](https://github.com/Ttokkime/Lab-1/blob/main/Lab%201%20Topology.png)
