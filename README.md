@@ -1,8 +1,8 @@
 # Lab 1: Performing Reconnaissance and Probing using Common Tools
 This repository compiles the different steps I took during the lab and shows the results.
 
-* Explore and test with common network scanning and anaylsis tools
-The tools I used:
+## Exploring and testing with common network scanning and anaylsis tools
+### The tools I used:
 * Wireshark - a protocol analyzer tool taht is used to capture IP traffic from different sources
 * Command prompt
 * NetWitness Investigator - a tool used to categorize information on traffic
