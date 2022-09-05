@@ -1,7 +1,7 @@
 # Lab 1: Performing Reconnaissance and Probing using Common Tools
 
 
-### This repository compiles the different steps I took during the lab and shows the results.
+#### This repository compiles the different steps I took during the lab and shows the results.
 
 
 ![image](https://github.com/Ttokkime/Lab-1/blob/main/Lab%201%20Topology.png)
