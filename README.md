@@ -7,11 +7,11 @@ This lab will cover concepts such as:
 * Zenmap
 * Fisheye Bubble charts
 
+<p align="center">
+<img src = "https://github.com/Ttokkime/Lab-1/blob/main/Lab%201%20Topology.png" width="700" height="400">
+</p>
 
-<img src = "https://github.com/Ttokkime/Lab-1/blob/main/Lab%201%20Topology.png" align = "right" width="700" height="400">
-
-
-<p align="left">
+<p align="center">
 Note: This picture is a reference that shows the different virtual machines and devices that were used in the lab and the connections between them.
 </p>
 
