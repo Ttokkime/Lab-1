@@ -54,7 +54,7 @@ The above picture is a screenshot of my access to the credit card details file t
 
 * **FileZilla**: a protocol software tool that connects suers with FTP servers
 <p align="center">
-<img src = "https://github.com/Ttokkime/Lab-1/blob/86bae5be59adc3448180dd12c4933f096b3eecd4/FileZilla%20logs.png" width="800" height="400">
+<img src = "https://github.com/Ttokkime/Lab-1/blob/86bae5be59adc3448180dd12c4933f096b3eecd4/FileZilla%20logs.png" width="900" height="350">
 </p>
 
 ## Use Zenmap to do an intense scan on subnetworks
