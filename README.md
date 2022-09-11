@@ -1,7 +1,7 @@
 # Lab 1: Performing Reconnaissance and Probing using Common Tools
 
 
-<img src = "https://github.com/Ttokkime/Lab-1/blob/main/Lab%201%20Topology.png" width="100" height="100">)
+<img src = "https://github.com/Ttokkime/Lab-1/blob/main/Lab%201%20Topology.png" width="250" height="250">
 
 **Note**: This picture is a reference that shows the different virtual machines and devices that were used in the lab and the connections between them.
 
