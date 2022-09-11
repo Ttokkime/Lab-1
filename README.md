@@ -45,7 +45,7 @@ In this example, the data for frame 1 is shown with the source, destination, pro
 
 * FileZilla - a protocol software tool that connects suers with FTP servers
 
-<img src = "https://github.com/Ttokkime/Lab-1/blob/86bae5be59adc3448180dd12c4933f096b3eecd4/FileZilla%20logs.png" width="700" height="400">
+<img src = "https://github.com/Ttokkime/Lab-1/blob/86bae5be59adc3448180dd12c4933f096b3eecd4/FileZilla%20logs.png" width="600" height="400">
 
 ## Use Zenmap to do an intense scan on subnetworks
 ## Generate charts that show the relationships between devices within the network
