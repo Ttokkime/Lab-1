@@ -36,11 +36,13 @@ In this example, the data for frame 1 is shown with the source, destination, pro
 
 
 * **NetWitness Investigator**: A tool used to organize and categorize traffic in order to identify specific patterns.
-
+By accessing the Demo Collection and reviewing the NetWitness Investigator report, I was able to find the creditcard details file I was looking for. 
 <p align="center">
 <img src = "https://github.com/Ttokkime/Lab-1/blob/5365ed4500c399194b815bca3e232a7a47a051ea/creditcards.txt%20file%20details.png" width="700" height="400">
 </p>
-  
+The above picture is a screenshot of my access to the credit card details file that was under the user account, joann.sample.
+
+
 * **Nessuss**: a computer vulnerability scanner
 
 
