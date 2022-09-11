@@ -8,7 +8,7 @@ This lab will cover concepts such as:
 * Fisheye Bubble charts
 
 
-<img src = "https://github.com/Ttokkime/Lab-1/blob/main/Lab%201%20Topology.png" width="700" height="400">
+<img src = "https://github.com/Ttokkime/Lab-1/blob/main/Lab%201%20Topology.png" alight = "center" width="700" height="400">
 
 **Note**: This picture is a reference that shows the different virtual machines and devices that were used in the lab and the connections between them.
 
