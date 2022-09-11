@@ -41,7 +41,7 @@ The results are shown above in this ping test picture. The Wireshark window show
 ![image](https://github.com/Ttokkime/Lab-1/blob/86bae5be59adc3448180dd12c4933f096b3eecd4/FileZilla%20logs.png)
 
 ## Use Zenmap to do an intense scan on subnetworks
-## Generate charts taht show the relationsihps between devices within the network
+## Generate charts that show the relationships between devices within the network
 
 
 
