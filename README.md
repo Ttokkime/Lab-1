@@ -24,12 +24,11 @@ Note: This picture is a reference that shows the different virtual machines and 
 ping 172.18.0.1
 ```
 
-<img src = "https://github.com/Ttokkime/Lab-1/blob/e54321585f72cc90683a5f2ad187b58444c0747f/Ping%20Test.png" align="left" width="700" height="400">
+<img src = "https://github.com/Ttokkime/Lab-1/blob/e54321585f72cc90683a5f2ad187b58444c0747f/Ping%20Test.png" align="left" width="650" height="400">
 <p align="left">
 The results are shown above in this ping test picture. The Wireshark window shows all the packets that were captured along with additional details such as the arrival source, destination, protocol, length and hex data. 
 </p>
 
-* In this example, it shows the frame 1 packet and the details of it such as how....
 
 
 * **NetWitness Investigator** - a tool used to categorize information on traffic  
