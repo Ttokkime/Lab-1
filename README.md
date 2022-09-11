@@ -26,7 +26,7 @@ ping 172.18.0.1
 
 <img src = "https://github.com/Ttokkime/Lab-1/blob/e54321585f72cc90683a5f2ad187b58444c0747f/Ping%20Test.png" align="left" width="650" height="400">
 <p align="left">
-The results of the wireshark ping traffic capture are shown in this picture. The Wireshark window shows all the packets that were captured along with additional details such as the arrival source, destination, protocol, length and hex data. 
+The results of the wireshark ping traffic capture are shown in this picture. The Wireshark results display, which is split into three different windows, shows all the packets that were captured along with additional details such as the arrival source, destination, protocol, length and hex data. 
 </p>
 
 * In this example, the data for frame 1 is shown with the details being that hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh...
