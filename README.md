@@ -47,7 +47,7 @@ The above picture is a screenshot of my access to the credit card details file t
   * By conducting basic network scans on different ip addresses, I was able to identify vulnerabilities such as the one below. 
 
 <p align="center">
-<img src = "https://github.com/Ttokkime/Lab-1/blob/4c22609a1753aa168a7e42e312a106e3aa6a6738/Medium%20Risk.png" width="600" height="380">
+<img src = "https://github.com/Ttokkime/Lab-1/blob/7ba476c2ed4fc1cfa0d1cb5444e118fd2e0ee617/vulnerability%20detail%20screen.png" width="500" height="380">
 </p>
  
 * **FileZilla**: A protocol software tool that connects severs with FTP servers.
