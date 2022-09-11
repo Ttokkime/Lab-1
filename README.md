@@ -32,8 +32,21 @@ The results are shown above in this ping test picture. The Wireshark window show
 
 
 
-<p align="center">
+
+
+
+
+
+
+
+
+
+
+
+
 * **NetWitness Investigator** - a tool used to categorize information on traffic  
+<p align="center">
+
 <img src = "https://github.com/Ttokkime/Lab-1/blob/5365ed4500c399194b815bca3e232a7a47a051ea/creditcards.txt%20file%20details.png" width="700" height="400">
 </p>
   
