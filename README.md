@@ -48,7 +48,7 @@ The above picture is a screenshot of my access to the credit card details file t
 
 
 <p align="center">
-<img src = "https://github.com/Ttokkime/Lab-1/blob/4c22609a1753aa168a7e42e312a106e3aa6a6738/Medium%20Risk.png" width="800" height="350">
+<img src = "https://github.com/Ttokkime/Lab-1/blob/4c22609a1753aa168a7e42e312a106e3aa6a6738/Medium%20Risk.png" width="700" height="350">
 </p>
 
 
