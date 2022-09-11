@@ -29,7 +29,7 @@ ping 172.18.0.1
 The results of the wireshark ping traffic capture are shown in this picture. The Wireshark window shows all the packets that were captured along with additional details such as the arrival source, destination, protocol, length and hex data. 
 </p>
 
-* In this example, the data for frame 1 is shown with the details being that...
+* In this example, the data for frame 1 is shown with the details being that hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh...
 
 
 * **NetWitness Investigator** - a tool used to categorize information on traffic  
