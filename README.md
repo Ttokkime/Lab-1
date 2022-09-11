@@ -63,6 +63,14 @@ The above picture is a screenshot of my access to the credit card details file t
 ## Use Zenmap to do an intense scan on subnetworks
 By conducting targeted IP subnetwork intense scans, I was able to identify what hosts were currently available on the network, the services that the individual hosts were offering, the operating systems that were in use for these services, and the different types of firewalls and filters that were used. 
 
+
+* For example, a line that returns the information that a certain host is down would look like this: 
+```
+Nmap scan report for 172.30.0.0 [host down]
+```
+
+
+
 ## Generate charts that show the relationships between devices within the network
 
 
