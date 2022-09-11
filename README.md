@@ -13,7 +13,7 @@ This lab will cover concepts such as:
 </p>
 
 <p align="center">
-**Note**: This picture is a reference that shows the different virtual machines and devices that were used in the lab and the connections between them.
+Note: This picture is a reference that shows the different virtual machines and devices that were used in the lab and the connections between them.
 </p>
 
 ## Exploring and testing with common network scanning and anaylsis tools
