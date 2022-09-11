@@ -43,7 +43,7 @@ In this example, the data for frame 1 is shown with the source, destination, pro
 The above picture is a screenshot of my access to the credit card details file that was under the user account, joann.sample.
 
 
-* **Nessuss**: a computer vulnerability scanner
+* **Nessuss**: A computer vulnerability scanner that does remote scans on network infrastructures and can perform network discoveries on a range of services and devices. 
 
 
 
