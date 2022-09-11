@@ -17,7 +17,7 @@ Note: This picture is a reference that shows the different virtual machines and 
 
 ## Exploring and testing with common network scanning and anaylsis tools
 ### Tools used:
-* **Wireshark**: a protocol analyzer tool that is used to capture IP traffic from different sources
+* **Wireshark**: A protocol analyzer tool that is used to capture IP traffic from different sources.
   * When using Wireshark, I used the tool in order to capture the ping traffic between vWorkstation and TargetWindows02 that were not port 3389. This was done by having a filter placed for my interfaces so that all the RDP trafic generated would qualify the condition of "not port 3389". After having set this filter, I started the capture and proceeded to go to the command prompt and use this ping command below.
 
 ```
@@ -35,7 +35,7 @@ In this example, the data for frame 1 is shown with the source, destination, pro
 
 
 
-* **NetWitness Investigator**: a tool used to organize and categorize traffic in order to identify specific patterns  
+* **NetWitness Investigator**: A tool used to organize and categorize traffic in order to identify specific patterns.
 
 <p align="center">
 <img src = "https://github.com/Ttokkime/Lab-1/blob/5365ed4500c399194b815bca3e232a7a47a051ea/creditcards.txt%20file%20details.png" width="700" height="400">
