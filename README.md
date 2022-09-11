@@ -56,6 +56,9 @@ The above picture is a screenshot of my access to the credit card details file t
 <p align="center">
 <img src = "https://github.com/Ttokkime/Lab-1/blob/86bae5be59adc3448180dd12c4933f096b3eecd4/FileZilla%20logs.png" width="600" height="400">
 </p>
+By connecting the FileZilla Server application, the connection activity that was occuring at the host 172.30.0.10 can be seen in the server logs. 
+
+
 
 ## Use Zenmap to do an intense scan on subnetworks
 ## Generate charts that show the relationships between devices within the network
