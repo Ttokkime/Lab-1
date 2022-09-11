@@ -32,6 +32,9 @@ The results of the wireshark ping traffic capture are shown in this picture. The
 In this example, the data for frame 1 is shown with the source, destination, protocol, and length being in the top window, additional details in the middle window, and the letters of the alphabet in the bottom window. 
 
 
+
+
+
 * **NetWitness Investigator**: a tool used to categorize information on traffic  
 
 <p align="center">
