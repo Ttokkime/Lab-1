@@ -28,6 +28,10 @@ ping 172.18.0.1
 The results are shown above in this ping test picture. The Wireshark window shows all the packets that were captured along with additional details such as the arrival source, destination, protocol, length and hex data.
 
 
+
+
+
+
 <p align="center">
 * **NetWitness Investigator** - a tool used to categorize information on traffic  
 <img src = "https://github.com/Ttokkime/Lab-1/blob/5365ed4500c399194b815bca3e232a7a47a051ea/creditcards.txt%20file%20details.png" width="700" height="400">
