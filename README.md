@@ -3,9 +3,9 @@
 This lab will cover concepts such as:
 
 
-* Explore common network scanning and analysis tools.
-* Use Zenmap to perform an Intense scan on an entire subnetwork (172.30.0.0/24)
-* Create a Fisheye Bubble chart to explain the relationships between devices on a network
+* Network scanning and analysis tools.
+* Zenmap
+* Fisheye Bubble charts
 
 
 <img src = "https://github.com/Ttokkime/Lab-1/blob/main/Lab%201%20Topology.png" width="700" height="400">
