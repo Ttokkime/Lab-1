@@ -66,6 +66,10 @@ By conducting targeted IP subnetwork intense scans, I was able to identify what 
 ```
 Nmap scan report for 172.30.0.0 [host down]
 ```
+The link below is the one for the Zenmap intense scan on the subnetwork 172.30.0.0/24
+```
+nmap -T4 -A -v 172.30.0.0/24
+```
 [Zenmap Scan Results](https://github.com/Ttokkime/Lab-1/blob/main/Jamie_S1_zenmap.xml)
 
 
