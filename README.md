@@ -77,6 +77,6 @@ nmap -T4 -A -v 172.30.0.0/24
 By going to the topology section of Zenmap, I was able to access the fisheye bubble chart that showed the relationships between the IP hosts and the relative size and connection type of each one. 
 
 <p align = "center">
-<img src = "https://github.com/Ttokkime/Lab-1/blob/8add29b90c73732e06b2629a120ab02a837228c1/Fisheye%20View.png" width = "600" height = "400">
+<img src = "https://github.com/Ttokkime/Lab-1/blob/8add29b90c73732e06b2629a120ab02a837228c1/Fisheye%20View.png" width = "500" height = "500">
 </p>
 
