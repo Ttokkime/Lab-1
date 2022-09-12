@@ -66,7 +66,7 @@ By conducting targeted IP subnetwork intense scans, I was able to identify what 
 ```
 Nmap scan report for 172.30.0.0 [host down]
 ```
-
+[Zenmap Scan](https://github.com/Ttokkime/Lab-1/blob/main/Jamie_S1_zenmap.xml)
 
 
 ## Generate charts that show the relationships between devices within the network
