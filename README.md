@@ -1,12 +1,5 @@
 # Lab 1: Performing Reconnaissance and Probing using Common Tools
 
-This lab will cover concepts such as:
-
-
-* Network scanning and analysis tools.
-* Zenmap
-* Fisheye Bubble charts
-
 <p align="center">
 <img src = "https://github.com/Ttokkime/Lab-1/blob/main/Lab%201%20Topology.png" width="700" height="400">
 </p>
