@@ -74,6 +74,9 @@ nmap -T4 -A -v 172.30.0.0/24
 
 
 ## Generate charts that show the relationships between devices within the network
+By going to the topology section of Zenmap, I was able to access the fisheye bubble chart that showed the relationships between the IP hosts and the relative size and connection type of each one. 
 
-
+<p align = "center">
+<img scr = "https://github.com/Ttokkime/Lab-1/blob/682d3a2df4e505cd7399a20ebad69115fd515dea/Fisheye%20View.png" width = "600" height = "400">
+</p>
 
